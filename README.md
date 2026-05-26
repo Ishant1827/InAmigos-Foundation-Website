@@ -45,3 +45,25 @@ InAmigos-Foundation-Website
     ├── photo1.jpg
     ├── photo2.jpg
     └── photo3.jpg
+🌟 NGO Projects Included
+Project Bachpanshala
+Project Prakriti
+Project Jeev
+Project Seva
+Project Udaan
+Project Vikas
+📍 NGO Information
+
+Organization: InAmigos Foundation
+Headquarters: Bilaspur, Chhattisgarh, India
+Founded: 2020
+
+🔗 Official Links
+Website: https://inamigosfoundation.org.in
+LinkedIn: https://www.linkedin.com/company/inamigos-foundation
+Instagram: https://instagram.com/inamigos
+YouTube: https://youtube.com/@inamigosfoundation
+💙 Developed By
+
+Ishant
+Internship Project – NGO Awareness Webpage
